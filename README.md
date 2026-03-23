@@ -65,41 +65,10 @@
 
 ---
 
-## 💼 Experience
-
-### 🔹 VLSI Design Intern — Technotran
-
-* Worked on **Verilog HDL and RTL design flow**
-* Designed reversible circuits and optimized ALU
-* Performed simulation and synthesis using Vivado
-* Gained exposure to **industry-level workflows** 
-
-### 🔹 AI Intern — Infosys Springboard *(Present)*
-
-* Working on **PriceOptima (Dynamic Pricing System)**
-* Developing ML models and performing evaluation
-
----
-
-## 📚 Certifications
-
-* NPTEL — System Design with Verilog (Elite + Silver)
-* NPTEL — CMOS VLSI Design
-* NPTEL — Semiconductor Devices (Elite)
-* Udemy — C Programming
-
----
 
 
 ---
 
-## 🎯 Technical Interests
-
-* VLSI Design
-* RTL Design & Verification
-* FPGA-Based System Design
-
----
 
 ## 📫 Contact Me
 
