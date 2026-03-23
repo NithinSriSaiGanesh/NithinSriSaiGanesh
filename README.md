@@ -63,6 +63,11 @@
 * Analyzing power, delay, and accuracy trade-offs
 
 ---
+## 📊 GitHub Stats
+
+![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithinSriSaiGanesh\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinSriSaiGanesh\&layout=compact\&theme=tokyonight)
 
 
 
