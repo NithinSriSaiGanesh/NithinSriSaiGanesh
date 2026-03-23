@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nithin Gopisetty
 
-🎓 Electronics Engineering Student (VLSI Design & Technology)
+🎓 Electronics Engineering Student (VLSI Design & Technology) @ RMK Engineering College
 
 
 ---
