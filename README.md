@@ -1,16 +1,131 @@
-## Hi there 👋
+# 👋 Hi, I'm Nithin Gopisetty
 
-<!--
-**NithinSriSaiGanesh/NithinSriSaiGanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics Engineering Student (VLSI Design & Technology)
+🚀 Aspiring VLSI Engineer | RTL & Low-Power Design Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* VLSI engineering student with hands-on experience in **RTL and transistor-level design**
+* Strong interest in **processor architecture, low-power VLSI, and emerging computing techniques** 
+* Passionate about building **efficient and optimized hardware systems**
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+
+* C
+* Python
+
+### ⚙️ HDL & VLSI
+
+* Verilog (RTL Design)
+* CMOS VLSI Design
+* Digital Electronics
+
+### 🧰 Tools & Platforms
+
+* Cadence Virtuoso
+* Xilinx Vivado
+* ModelSim
+* GitHub
+* Artix-7 FPGA
+
+---
+
+## 🚀 Projects
+
+### 🔹 8-bit Reversible ALU
+
+* Designed using **HNG and COG gates**
+* Implemented arithmetic & logic operations using reversible computing
+* Achieved **94% delay reduction and 20% power savings** 
+
+### 🔹 Asynchronous FIFO
+
+* Designed using **dual clock architecture in Verilog**
+* Implemented **Gray code pointers and synchronizers**
+* Verified using Vivado simulation
+
+### 🔹 Synchronous FIFO
+
+* Designed a **64-byte FIFO memory** using Verilog
+* Implemented full/empty flag logic
+* Verified using ModelSim and Vivado
+
+### 🔹 RISC-V Single Cycle Processor *(Ongoing)*
+
+* Designing a **32-bit RISC-V processor**
+* Implementing ALU, Register File, Control Unit, and PC
+* Performing simulation and verification
+
+### 🔹 Approximate Multiplier *(Ongoing)*
+
+* Designing **energy-efficient multiplier for error-resilient applications**
+* Working at **transistor level using Cadence Virtuoso**
+* Analyzing power, delay, and accuracy trade-offs
+
+---
+
+## 💼 Experience
+
+### 🔹 VLSI Design Intern — Technotran
+
+* Worked on **Verilog HDL and RTL design flow**
+* Designed reversible circuits and optimized ALU
+* Performed simulation and synthesis using Vivado
+* Gained exposure to **industry-level workflows** 
+
+### 🔹 AI Intern — Infosys Springboard *(Present)*
+
+* Working on **PriceOptima (Dynamic Pricing System)**
+* Developing ML models and performing evaluation
+
+---
+
+## 📚 Certifications
+
+* NPTEL — System Design with Verilog (Elite + Silver)
+* NPTEL — CMOS VLSI Design
+* NPTEL — Semiconductor Devices (Elite)
+* Udemy — C Programming
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Winner — Internal Hackathon (SIH 2024)
+
+---
+
+## 👨‍💼 Leadership
+
+* Class Representative (Sem 5–6)
+* Coordinated communication between students and faculty
+
+---
+
+## 🎯 Technical Interests
+
+* VLSI Design
+* RTL Design & Verification
+* FPGA-Based System Design
+
+---
+
+## 📫 Contact Me
+
+* 📧 [nithingopisetty2516@gmail.com](mailto:nithingopisetty2516@gmail.com)
+* 🔗 https://linkedin.com/in/nithin2516
+* 💻 https://github.com/NithinSriSaiGanesh
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy designing efficient digital systems and optimizing hardware for performance and power.
+
+---
