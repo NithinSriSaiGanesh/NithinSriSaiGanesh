@@ -30,7 +30,6 @@
 
 * Cadence Virtuoso
 * Xilinx Vivado
-* ModelSim
 * GitHub
 * Artix-7 FPGA
 
