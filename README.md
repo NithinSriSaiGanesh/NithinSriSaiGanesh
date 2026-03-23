@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nithin Gopisetty
 
 🎓 Electronics Engineering Student (VLSI Design & Technology)
-🚀 Aspiring VLSI Engineer | RTL & Low-Power Design Enthusiast
+
 
 ---
 
@@ -56,11 +56,6 @@
 * Implemented full/empty flag logic
 * Verified using ModelSim and Vivado
 
-### 🔹 RISC-V Single Cycle Processor *(Ongoing)*
-
-* Designing a **32-bit RISC-V processor**
-* Implementing ALU, Register File, Control Unit, and PC
-* Performing simulation and verification
 
 ### 🔹 Approximate Multiplier *(Ongoing)*
 
@@ -95,16 +90,6 @@
 
 ---
 
-## 🏆 Achievements
-
-* 🥇 Winner — Internal Hackathon (SIH 2024)
-
----
-
-## 👨‍💼 Leadership
-
-* Class Representative (Sem 5–6)
-* Coordinated communication between students and faculty
 
 ---
 
