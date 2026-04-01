@@ -49,30 +49,6 @@
 * Implemented **Gray code pointers and synchronizers**
 * Verified using Vivado simulation
 
-### 🔹 Synchronous FIFO
-
-* Designed a **64-byte FIFO memory** using Verilog
-* Implemented full/empty flag logic
-* Verified using ModelSim and Vivado
-
-
-### 🔹 Approximate Multiplier *(Ongoing)*
-
-* Designing **energy-efficient multiplier for error-resilient applications**
-* Working at **transistor level using Cadence Virtuoso**
-* Analyzing power, delay, and accuracy trade-offs
-
----
-## 📊 GitHub Stats
-
-![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithinSriSaiGanesh\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinSriSaiGanesh\&layout=compact\&theme=tokyonight)
-
-
-
----
-
 
 ## 📫 Contact Me
 
